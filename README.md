@@ -3,9 +3,13 @@ Digital Literacy Project - CSE0001
 Student Details
 
 Name: Raghav Bansal
+
 Reg No: 25BAI10853
+
 Branch: B.Tech CSE, AI and ML
+
 Course:  Digital Literacy
+
 Course Code: CSE0001
 
 Project Overview
