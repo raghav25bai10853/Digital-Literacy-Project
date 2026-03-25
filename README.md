@@ -34,13 +34,13 @@ Task 5: Cybercrime Awareness - UPI Fraud case study + prevention guide
 
 **Key Links**
 
-GitHub: github.com (create repo: digital-literacy-project)
+GitHub: github.com
 
 Canva: canva.com
 
 LinkedIn: linkedin.com
 
-HackerRank/CodeChef: hackerrank.com, codechef.com
+HackerRank: hackerrank.com
 
 Google Forms: forms.google.com
 
