@@ -34,16 +34,16 @@ Task 5: Cybercrime Awareness - UPI Fraud case study + prevention guide
 
 **Key Links**
 
-GitHub: github.com
+GitHub: https://github.com/
 
-Canva: canva.com
+Canva: https://www.canva.in/
 
-LinkedIn: linkedin.com
+LinkedIn: https://in.linkedin.com/
 
-HackerRank: hackerrank.com
+HackerRank: https://www.hackerrank.com/
 
 Google Forms: https://docs.google.com/forms/d/e/1FAIpQLSeWOStRpdjmSBeoKrwAbGZMHb6m1wFgkL185D6cykKGgfYzJA/viewform?usp=publish-editor
 
-Cybercrime Portal: cybercrime.gov.in
+Cybercrime Portal: https://www.cybercrime.gov.in/
 
 
