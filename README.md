@@ -1,6 +1,7 @@
 Digital Literacy Project - CSE0001
 
-Student Details
+
+**Student Details**
 
 Name: Raghav Bansal
 
@@ -12,11 +13,13 @@ Course:  Digital Literacy
 
 Course Code: CSE0001
 
-Project Overview
+
+**Project Overview***
 
 As a Student Digital Ambassador, I created this Digital Literacy Portfolio covering 5 modules: infographics, professional profiles, coding platforms, email etiquette, and cybercrime awareness (UPI/Online Payment Fraud).
 
-Module Summaries
+
+**Module Summaries**
 
 Task 1: Digital Literacy Infographic (Canva) - Visual guide on safe internet practices
 
@@ -29,7 +32,7 @@ Task 4: Email Etiquette - Professional email drafts + social media checklist
 Task 5: Cybercrime Awareness - UPI Fraud case study + prevention guide
 
 
-Key Links
+**Key Links**
 
 GitHub: github.com (create repo: digital-literacy-project)
 
