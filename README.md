@@ -42,10 +42,8 @@ LinkedIn: linkedin.com
 
 HackerRank: hackerrank.com
 
-Google Forms: forms.google.com
+Google Forms: https://docs.google.com/forms/d/e/1FAIpQLSeWOStRpdjmSBeoKrwAbGZMHb6m1wFgkL185D6cykKGgfYzJA/viewform?usp=publish-editor
 
 Cybercrime Portal: cybercrime.gov.in
 
-Helpline: 1930
 
-VITyarthi: For submission.
